@@ -1,0 +1,79 @@
+Day 2 — Detailed Learning Index
+Today's focus is understanding JavaScript concepts that directly help us build React applications.
+Session 1 — Destructuring (30 min)
+- Array destructuring
+- Object destructuring
+- Default values
+- Renaming variables
+- Nested destructuring
+Session 2 — Spread & Rest (30 min)
+- Spread with arrays
+- Spread with objects
+- Copying vs referencing
+- Updating objects immutably
+- Rest parameters
+- Spread vs Rest
+Session 3 — Functions (30 min)
+- Function declarations
+- Function expressions
+- Arrow functions
+- Parameters vs arguments
+- Return values
+- Callback functions
+Session 4 — Closures (30 min)
+- Lexical scope
+- Scope chain
+- Closure concept
+- Practical closure examples
+- Where closures are useful
+Session 5 — Shopping Cart Implementation (60 min)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+
+
+
+
+
+
+
+
+
+
+We'll implement:
+- Add products to cart
+- Remove products
+- Increase/decrease quantity
+- Calculate subtotal
+- Apply discount
+- Calculate final amount
+- Handle duplicate products
+- Explain every line of implementation
+
+Today's completion criteria
+By the end of Day 2, you should be able to:
+- Extract properties from objects without repeatedly writing object.property.
+- Copy and update objects without modifying originals.
+- Explain why spread and rest are different.
+- Write functions confidently.
+- Explain how closures retain access to variables.
+- Implement shopping cart logic independently.
+Today's rule: I'll teach each concept, give you small practice problems, review your answers, and then let you build the cart.

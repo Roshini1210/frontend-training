@@ -1,0 +1,75 @@
+Day 1 — Completed
+
+JavaScript Array Methods
+- map(), filter(), reduce()
+- Chaining array methods
+- Object transformations
+- Aggregation and averages
+- Finding maximum/minimum
+- Practical product and student exercises
+Day 2 — Today's Target
+
+JavaScript Fundamentals — Part 2
+- Destructuring
+- Spread and Rest operators
+- Function fundamentals
+- Arrow functions
+- Callback functions
+- Closures
+- Practical Shopping Cart logic
+Day 3 — Asynchronous JavaScript
+- Synchronous vs asynchronous execution
+- Callbacks
+- Promises
+- async / await
+- try / catch
+- Fetch API
+- API integration exercise
+Day 4 — React Fundamentals
+- Components
+- JSX
+- Props
+- State
+- Rendering
+- Event handling
+- Build a Todo application
+Day 5 — React Forms & Component Communication
+- Controlled inputs
+- Form handling
+- Validation basics
+- Lifting state up
+- Parent-child communication
+- Build a Notes application
+Day 6 — React Hooks
+- useState
+- useEffect
+- Dependency arrays
+- Cleanup functions
+- Custom hooks
+- Build Habit Tracker v2
+Day 7 — CSS Layout & Responsive Design
+- Flexbox
+- CSS Grid
+- Positioning
+- Responsive design
+- Media queries
+- Build a responsive dashboard
+Day 8 — Routing & API Integration
+- React Router
+- Route configuration
+- Dynamic routes
+- API integration
+- Loading/error states
+- Build a weather application
+Day 9 — Independent Development
+- Requirement analysis
+- Component planning
+- State management
+- UI implementation
+- Independent task-management application
+Day 10 — Final Assessment
+- Independent frontend project
+- Code review
+- Debugging assessment
+- Architecture and maintainability
+- Identify weaknesses and prepare the backend roadmap
